@@ -118,7 +118,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![ex-12](https://github.com/AnnBlessy/graphicsinandroid/assets/119477835/7259df3a-c5e5-40b4-aeb5-915ca193f9f8)
+![Screenshot 2024-05-07 175030](https://github.com/VIKASHAR/graphicsinandroid/assets/119405655/a1f2d0ee-ea44-42ca-8872-d2f51c0f0270)
+
 
 
 ## RESULT
